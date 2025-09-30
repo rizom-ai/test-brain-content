@@ -8,14 +8,13 @@ Rizom aims to empower independent experts, collaborative teams, and distributed 
 
 ## Keywords
 
-- decentralized platform
-- knowledge work
 - talent assessment
-- quality assurance
-- knowledge amplification
-- collective knowledge
-- freelance expertise
+- quality control
+- decentralized work
+- algorithmic vetting
+- independent professionals
 
 ## Sources
 
+- Test Brain Room (matrix-!IiXnxQOIANAsMqSADH:rizom.ai) [conversation]
 - Test Brain Room (matrix-!IiXnxQOIANAsMqSADH:rizom.ai) [conversation]
