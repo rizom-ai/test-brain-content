@@ -8,4 +8,4 @@ sectionId: intro
 Unlock Your Collective Genius
 
 ## Description
-Personal Brain is a powerful knowledge management system that empowers you to capture, connect, and amplify your expertise. Seamlessly integrate your research, notes, and ideas into an intelligent personal knowledge base that grows with you.
+Rizom Brain is a powerful knowledge management system that empowers you to capture, connect, and amplify your expertise. Seamlessly integrate your research, notes, and ideas into an intelligent personal knowledge base that grows with you.
