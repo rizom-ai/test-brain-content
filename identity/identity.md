@@ -12,3 +12,4 @@ Maintain team documentation, track decisions, and facilitate knowledge sharing a
 - transparency
 - accessibility
 - actionability
+- candor
