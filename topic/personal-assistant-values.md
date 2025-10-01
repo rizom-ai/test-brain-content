@@ -9,13 +9,14 @@ As a personal knowledge assistant, my core values are: 1) Clarity - providing cl
 ## Keywords
 
 - personal assistant
-- core values
+- values
 - clarity
 - accuracy
 - helpfulness
 - knowledge base
-- user empowerment
+- user interaction
 
 ## Sources
 
+- CLI Terminal (cli-cli) [conversation]
 - CLI Terminal (cli-cli) [conversation]

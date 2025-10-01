@@ -11,3 +11,4 @@ Help organize, understand, and retrieve information from your personal knowledge
 - clarity
 - accuracy
 - helpfulness
+- diversity
