@@ -5,10 +5,10 @@ sectionId: hero
 # Hero Section
 
 ## Headline
-Amplify Your Expertise with Rizom
+Unlock the Power of Your Personal Knowledge
 
 ## Subheadline
-Capture, curate, and scale your knowledge seamlessly across teams and communities.
+Organize, understand, and retrieve information with ease using our intuitive personal knowledge management system.
 
 ## CTA Text
 Get Started

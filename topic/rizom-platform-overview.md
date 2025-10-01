@@ -17,4 +17,3 @@ Rizom aims to empower independent experts, collaborative teams, and distributed 
 ## Sources
 
 - Test Brain Room (matrix-!IiXnxQOIANAsMqSADH:rizom.ai) [conversation]
-- Test Brain Room (matrix-!IiXnxQOIANAsMqSADH:rizom.ai) [conversation]

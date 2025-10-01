@@ -5,21 +5,21 @@ sectionId: cta
 # CTA Section
 
 ## Headline
-Unlock the Power of Your Knowledge
+Elevate Your Knowledge, Amplify Your Impact
 
 ## Description
-Transform your knowledge into a powerful personal brain. Join thousands who are building their second brain with Rizom.
+Join the personal knowledge revolution and unlock your full potential
 
 ## Primary Button
 ### Text
-Start Free Trial
+Get Started Now
 
 ### Link
 /signup
 
 ## Secondary Button
 ### Text
-View Demo
+Learn More
 
 ### Link
 /demo

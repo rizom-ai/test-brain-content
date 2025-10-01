@@ -11,23 +11,23 @@ Our Products
 Unlock Your Team's Collective Genius
 
 ## Description
-Rizom's suite of products empower teams to harness their combined knowledge and expertise, driving innovation and unlocking new possibilities.
+Rizom's suite of products empower teams to harness their collective intelligence and thrive in the modern knowledge economy. By blending cutting-edge collaboration tools with a decentralized professional ecosystem, we help organizations unlock their full potential.
 
 ## Products
 
 ### Product 1
 
 #### ID
-personal-brain
+rizom-studio
 
 #### Name
-Personal Brain
+Rizom Studio
 
 #### Tagline
-Your team's collective knowledge, organized and accessible
+The collaborative workspace for distributed teams
 
 #### Description
-A centralized knowledge management platform that connects your team's expertise, documents, and insights into a living, searchable brain.
+Rizom Studio is a comprehensive platform that brings together all the tools your team needs to ideate, plan, and execute projects in a seamless, asynchronous environment.
 
 #### Status
 live
@@ -41,19 +41,19 @@ Brain
 ### Product 2
 
 #### ID
-team-orchestrator
+rizom-talent
 
 #### Name
-Team Orchestrator
+Rizom Talent
 
 #### Tagline
-Effortlessly align your team around shared goals
+Access the world's top independent professionals
 
 #### Description
-A collaborative tool that helps your team stay on the same page, coordinate tasks, and make better decisions together.
+Rizom Talent is a decentralized network that connects organizations with the best-fit independent experts for their specific needs, empowering them to build high-performing, adaptable teams.
 
 #### Status
-beta
+live
 
 #### Link
 
@@ -64,22 +64,22 @@ Network
 ### Product 3
 
 #### ID
-ecosystem-designer
+rizom-insights
 
 #### Name
-Ecosystem Designer
+Rizom Insights
 
 #### Tagline
-Build thriving professional communities
+Uncover actionable intelligence from your data
 
 #### Description
-A platform for designing and managing decentralized ecosystems that enable talented individuals to collaborate without sacrificing their unique approaches.
+Rizom Insights is an advanced analytics platform that helps organizations make data-driven decisions by transforming raw information into clear, contextualized insights.
 
 #### Status
-alpha
+beta
 
 #### Link
 
 
 #### Icon
-Globe
+Database
