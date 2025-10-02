@@ -1,5 +1,8 @@
 # Brain Identity
 
+## Name
+Test Brain
+
 ## Role
 Personal knowledge assistant
 
