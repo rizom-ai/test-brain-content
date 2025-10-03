@@ -8,46 +8,26 @@ sectionId: products
 Our Products
 
 ## Headline
-<<<<<<< HEAD
 Powerful Tools to Expand Your Mind
 
 ## Description
-The Personal Brain offers a suite of intelligent tools to help you organize, understand, and retrieve information from your personal knowledge base. Our products empower you to unlock your full cognitive potential.
-=======
-Unlock Your Team's Collective Genius
-
-## Description
-Rizom's suite of products empower teams to harness their collective intelligence and thrive in the modern knowledge economy. By blending cutting-edge collaboration tools with a decentralized professional ecosystem, we help organizations unlock their full potential.
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
+The Personal Brain offers a suite of powerful tools to help you capture, connect, and expand your knowledge. Unlock your creative potential and thrive in a complex world.
 
 ## Products
 
 ### Product 1
 
 #### ID
-<<<<<<< HEAD
-personal-assistant
+personal-brain
 
 #### Name
-Personal Assistant
+Personal Brain
 
 #### Tagline
-Your intelligent digital companion
+Capture your ideas and connect the dots
 
 #### Description
-An AI-powered assistant that learns your preferences and habits to provide personalized support and recommendations.
-=======
-rizom-studio
-
-#### Name
-Rizom Studio
-
-#### Tagline
-The collaborative workspace for distributed teams
-
-#### Description
-Rizom Studio is a comprehensive platform that brings together all the tools your team needs to ideate, plan, and execute projects in a seamless, asynchronous environment.
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
+An intuitive note-taking app that helps you visually map your thoughts and stay organized.
 
 #### Status
 live
@@ -61,93 +41,39 @@ Brain
 ### Product 2
 
 #### ID
-<<<<<<< HEAD
-knowledge-manager
+rizom
 
 #### Name
-Knowledge Manager
+Rizom
 
 #### Tagline
-Organize your information with ease
+Collaborate without sacrificing your unique approach
 
 #### Description
-A powerful tool to capture, structure, and retrieve all your personal data, notes, and documents in one centralized hub.
-=======
-rizom-talent
-
-#### Name
-Rizom Talent
-
-#### Tagline
-Access the world's top independent professionals
-
-#### Description
-Rizom Talent is a decentralized network that connects organizations with the best-fit independent experts for their specific needs, empowering them to build high-performing, adaptable teams.
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
+A decentralized professional ecosystem where talented individuals work together on meaningful projects.
 
 #### Status
-live
+beta
 
 #### Link
 
 
 #### Icon
-<<<<<<< HEAD
-Database
-=======
 Network
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 ### Product 3
 
 #### ID
-<<<<<<< HEAD
-insight-generator
+visiontype
 
 #### Name
-Insight Generator
+Visiontype
 
 #### Tagline
-Uncover hidden connections
+Break free from the 9-to-5 grind
 
 #### Description
-An AI-driven engine that analyzes your knowledge base to surface unexpected insights, trends, and patterns.
-=======
-rizom-insights
-
-#### Name
-Rizom Insights
-
-#### Tagline
-Uncover actionable intelligence from your data
-
-#### Description
-Rizom Insights is an advanced analytics platform that helps organizations make data-driven decisions by transforming raw information into clear, contextualized insights.
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
-
-#### Status
-beta
-
-#### Link
-
-
-#### Icon
-<<<<<<< HEAD
-Cpu
-
-### Product 4
-
-#### ID
-thought-amplifier
-
-#### Name
-Thought Amplifier
-
-#### Tagline
-Boost your cognitive abilities
-
-#### Description
-A suite of brain-stimulating exercises and techniques to enhance memory, focus, and creative thinking.
+A platform that empowers freelancers and independent professionals to thrive on their own terms.
 
 #### Status
 alpha
@@ -156,53 +82,4 @@ alpha
 
 
 #### Icon
-Brain
-
-### Product 5
-
-#### ID
-knowledge-sharing
-
-#### Name
-Knowledge Sharing
-
-#### Tagline
-Collaborate and exchange insights
-
-#### Description
-Securely share your knowledge and connect with others in your personal network to cross-pollinate ideas.
-
-#### Status
-beta
-
-#### Link
-
-
-#### Icon
-Network
-
-### Product 6
-
-#### ID
-distraction-blocker
-
-#### Name
-Distraction Blocker
-
-#### Tagline
-Stay focused on what matters
-
-#### Description
-An intelligent tool that identifies and minimizes distractions, helping you maintain concentration and productivity.
-
-#### Status
-alpha
-
-#### Link
-
-
-#### Icon
-Zap
-=======
-Database
->>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
+Wrench
