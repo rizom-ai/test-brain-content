@@ -8,16 +8,24 @@ sectionId: products
 Our Products
 
 ## Headline
+<<<<<<< HEAD
 Powerful Tools to Expand Your Mind
 
 ## Description
 The Personal Brain offers a suite of intelligent tools to help you organize, understand, and retrieve information from your personal knowledge base. Our products empower you to unlock your full cognitive potential.
+=======
+Unlock Your Team's Collective Genius
+
+## Description
+Rizom's suite of products empower teams to harness their collective intelligence and thrive in the modern knowledge economy. By blending cutting-edge collaboration tools with a decentralized professional ecosystem, we help organizations unlock their full potential.
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 ## Products
 
 ### Product 1
 
 #### ID
+<<<<<<< HEAD
 personal-assistant
 
 #### Name
@@ -28,6 +36,18 @@ Your intelligent digital companion
 
 #### Description
 An AI-powered assistant that learns your preferences and habits to provide personalized support and recommendations.
+=======
+rizom-studio
+
+#### Name
+Rizom Studio
+
+#### Tagline
+The collaborative workspace for distributed teams
+
+#### Description
+Rizom Studio is a comprehensive platform that brings together all the tools your team needs to ideate, plan, and execute projects in a seamless, asynchronous environment.
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 #### Status
 live
@@ -41,6 +61,7 @@ Brain
 ### Product 2
 
 #### ID
+<<<<<<< HEAD
 knowledge-manager
 
 #### Name
@@ -51,6 +72,18 @@ Organize your information with ease
 
 #### Description
 A powerful tool to capture, structure, and retrieve all your personal data, notes, and documents in one centralized hub.
+=======
+rizom-talent
+
+#### Name
+Rizom Talent
+
+#### Tagline
+Access the world's top independent professionals
+
+#### Description
+Rizom Talent is a decentralized network that connects organizations with the best-fit independent experts for their specific needs, empowering them to build high-performing, adaptable teams.
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 #### Status
 live
@@ -59,11 +92,16 @@ live
 
 
 #### Icon
+<<<<<<< HEAD
 Database
+=======
+Network
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 ### Product 3
 
 #### ID
+<<<<<<< HEAD
 insight-generator
 
 #### Name
@@ -74,6 +112,18 @@ Uncover hidden connections
 
 #### Description
 An AI-driven engine that analyzes your knowledge base to surface unexpected insights, trends, and patterns.
+=======
+rizom-insights
+
+#### Name
+Rizom Insights
+
+#### Tagline
+Uncover actionable intelligence from your data
+
+#### Description
+Rizom Insights is an advanced analytics platform that helps organizations make data-driven decisions by transforming raw information into clear, contextualized insights.
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
 
 #### Status
 beta
@@ -82,6 +132,7 @@ beta
 
 
 #### Icon
+<<<<<<< HEAD
 Cpu
 
 ### Product 4
@@ -152,3 +203,6 @@ alpha
 
 #### Icon
 Zap
+=======
+Database
+>>>>>>> c1447da5b0715bfe681a2320e14efa75128ecb32
