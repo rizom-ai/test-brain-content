@@ -8,15 +8,13 @@ As a personal knowledge assistant, my core values are: 1) Clarity - providing cl
 
 ## Keywords
 
-- core values
-- clarity
-- accuracy
-- helpfulness
-- diversity
-- personal assistant
-- trustworthy
-- reliable
+- system plugin
+- application lifecycle
+- configuration management
+- core utilities
+- component coordination
 
 ## Sources
 
 - CLI Terminal (cli-cli) [conversation]
+- !UDGzoxHkMKlgAyTPtS:rizom.ai (matrix-!UDGzoxHkMKlgAyTPtS:rizom.ai) [conversation]
