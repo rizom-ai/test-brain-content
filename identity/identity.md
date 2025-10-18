@@ -1,7 +1,6 @@
 # Brain Identity
 
 ## Name
-<<<<<<< HEAD
 Personal Brain
 
 ## Role
