@@ -8,15 +8,16 @@ Rizom aims to empower independent experts, collaborative teams, and distributed 
 
 ## Keywords
 
-- knowledge management
-- information assistant
-- conversational AI
-- contextual responses
-- documentation
-- decision tracking
-- knowledge sharing
+- decentralized
+- knowledge work
+- collaboration
+- talent management
+- quality assurance
+- distributed teams
+- collectives
 
 ## Sources
 
 - Test Brain Room (matrix-!IiXnxQOIANAsMqSADH:rizom.ai) [conversation]
 - !UDGzoxHkMKlgAyTPtS:rizom.ai (matrix-!UDGzoxHkMKlgAyTPtS:rizom.ai) [conversation]
+- CLI Terminal (cli-cli) [conversation]

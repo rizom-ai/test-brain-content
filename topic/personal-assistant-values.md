@@ -8,14 +8,13 @@ As a personal knowledge assistant, my core values are: 1) Clarity - providing cl
 
 ## Keywords
 
-- personal assistant
-- core values
-- clarity
-- accuracy
-- helpfulness
-- curiosity
-- empathy
-- transparency
+- decentralization
+- knowledge work
+- collaboration
+- talent management
+- quality assurance
+- collectives
+- distributed teams
 
 ## Sources
 
