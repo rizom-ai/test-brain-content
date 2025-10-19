@@ -14,4 +14,4 @@ Unlock the power of your personal knowledge base with Person
 Get Started
 
 ## CTA Link
-/get-started
+#features

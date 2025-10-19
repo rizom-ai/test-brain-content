@@ -11,7 +11,7 @@ Our Products
 Powerful Tools to Expand Your Mind
 
 ## Description
-The Personal Brain offers a suite of powerful tools to help you capture, connect, and expand your knowledge. Unlock your creative potential and thrive in a complex world.
+The Personal Brain offers a suite of powerful tools to help you organize, understand, and retrieve information from your personal knowledge base. Our products are designed to enhance clarity, accuracy, and helpfulness - core values that guide our mission.
 
 ## Products
 
@@ -24,10 +24,10 @@ personal-brain
 Personal Brain
 
 #### Tagline
-Capture your ideas and connect the dots
+Your digital second brain
 
 #### Description
-An intuitive note-taking app that helps you visually map your thoughts and stay organized.
+The Personal Brain is a knowledge management platform that helps you capture, connect, and cultivate your ideas, insights, and information.
 
 #### Status
 live
@@ -41,19 +41,19 @@ Brain
 ### Product 2
 
 #### ID
-rizom
+rizom-ecosystem
 
 #### Name
-Rizom
+Rizom Ecosystem
 
 #### Tagline
-Collaborate without sacrificing your unique approach
+Thrive as an independent expert
 
 #### Description
-A decentralized professional ecosystem where talented individuals work together on meaningful projects.
+Rizom is a decentralized professional ecosystem where talented individuals collaborate without sacrificing their unique approaches.
 
 #### Status
-beta
+live
 
 #### Link
 
@@ -64,19 +64,19 @@ Network
 ### Product 3
 
 #### ID
-visiontype
+transformation-toolkit
 
 #### Name
-Visiontype
+Transformation Toolkit
 
 #### Tagline
-Break free from the 9-to-5 grind
+Navigate organizational change
 
 #### Description
-A platform that empowers freelancers and independent professionals to thrive on their own terms.
+Our Transformation Toolkit provides a structured approach to digital transformation, organizational development, and ecosystem design.
 
 #### Status
-alpha
+beta
 
 #### Link
 

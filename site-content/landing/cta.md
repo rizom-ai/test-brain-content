@@ -5,10 +5,10 @@ sectionId: cta
 # CTA Section
 
 ## Headline
-Unlock Your Full Potential with Personal Brain
+Elevate Your Knowledge to New Heights
 
 ## Description
-Transform your knowledge and boost your productivity with a personal knowledge management system that empowers you to capture, connect, and harness your expertise.
+Transform your knowledge and boost your productivity with a personal knowledge management system that unlocks your full potential.
 
 ## Primary Button
 ### Text
